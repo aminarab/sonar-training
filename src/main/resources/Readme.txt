@@ -1,4 +1,3 @@
-# sonar-training
 1- Extract zip G:\Archive\sonarqube-8.3.1.34397.zip to G:\sonarqube-8.3.1.34397
 
 2- Environment Variable :
